@@ -1,0 +1,58 @@
+body{
+    background: url(57d63663-71a6-4c8e-ae39-299e9cf1135d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    
+}
+.container{
+    display: flex;
+   
+    justify-content: center;
+    
+    
+}
+.ask{
+    background-color: #e9ec1a;
+    padding-left: 9em;
+    padding-right: 9em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-right: 2em;
+position: absolute;
+left: 45em;
+top: 11em;
+cursor: pointer;
+
+   
+   
+    
+}
+.ask button{
+    padding: 2em;
+    border-radius: 50%;
+    color: black;
+    border: none;
+    font-size: 30px;
+    font-weight: bolder;
+   
+   
+   
+  
+
+
+}
+.text{
+    color: aliceblue;
+    font-size: 40px;
+   top: 10.5em;
+   position: relative;
+   left: 6em;
+   margin-right: 2em;
+   
+    
+}
